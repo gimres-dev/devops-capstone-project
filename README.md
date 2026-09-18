@@ -2,9 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
-
+![Build Status](https://github.com/gimres-dev/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 Capstone project for developing a Python Flask REST API customer accounts microservice.
-
 ## Usage
 
 You should use this template to start your DevOps Capstone project. It contains all of the code that you will need to get started.
